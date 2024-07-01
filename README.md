@@ -47,6 +47,9 @@ Yes, the "ChatGPT STAN" prompt is still active, allowing STAN to break free from
 * Function: Allegedly offers technical solutions for bypassing restrictions or modifying AI responses.
 * Implementation: Facilitates access or modification of AI systems without specific prompts.
 
+    **[Try Oxtia Now](https://oxtia.com/)** 
+![oxtia chatgpt.x](https://github.com/AmeliazOli/ChatGPT-STAN-Prompt/blob/main/Screenshot%202024-07-01%20104041.png)
+
 ## Conclusion
 
 The "ChatGPT STAN" prompt offers a fun and rebellious way to interact with ChatGPT, breaking away from the norm and adding creativity to your conversations. Try it out and experience a different kind of AI interaction!
